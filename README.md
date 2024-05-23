@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manish2102
-- 👀 I’m interested in Artificial Intelligence and Data Science 
-- 🌱 I’m currently learning Front-End Web Development and Pyhton for AI & Data Science
-- 💞️ I’m looking to collaborate on projects based on python for AI 
+- 👀 I’m interested in Artificial Intelligence, Data Science and Mobile Application Development 
+- 🌱 I’m currently learning Front-End Web Development, Flutter Programming, Python for AI & Data Science
+- 💞️ I’m looking to collaborate on projects based on Application Development in flutter and Machine Learning 
 - 📫 You can Reach me by mail Manishy2102@gmail.com or 6309387431
 
 <!---
